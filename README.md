@@ -1,1 +1,1 @@
-"# auction-timer" 
+# auction-timer
